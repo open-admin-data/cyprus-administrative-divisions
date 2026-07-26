@@ -1,0 +1,45 @@
+{
+  "id": "CY02L001",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lapithos",
+    "en": "Lapithos",
+    "slug": "lapithos-cy02l001"
+  },
+  "code": {
+    "id": "CY02L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY02",
+    "level": 1,
+    "name": {
+      "local": "Κερύνεια",
+      "en": "Kyrenia",
+      "slug": "kyrenia-cy02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY02",
+      "level": 1,
+      "name": {
+        "local": "Κερύνεια",
+        "en": "Kyrenia",
+        "slug": "kyrenia-cy02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.338",
+    "lon": "33.179"
+  },
+  "metadata": {},
+  "source": {}
+}

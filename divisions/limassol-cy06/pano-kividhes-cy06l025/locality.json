@@ -1,0 +1,45 @@
+{
+  "id": "CY06L025",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pano Kividhes",
+    "en": "Pano Kividhes",
+    "slug": "pano-kividhes-cy06l025"
+  },
+  "code": {
+    "id": "CY06L025",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY06",
+    "level": 1,
+    "name": {
+      "local": "Λεμεσός",
+      "en": "Limassol",
+      "slug": "limassol-cy06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.771",
+    "lon": "32.842"
+  },
+  "metadata": {},
+  "source": {}
+}

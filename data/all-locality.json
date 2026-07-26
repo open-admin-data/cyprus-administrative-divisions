@@ -1,0 +1,3017 @@
+[
+  {
+    "id": "CY04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î�Î¹ÎºÏŒÎºÎ»ÎµÎ¹Î±",
+      "en": "Î�Î¹ÎºÏŒÎºÎ»ÎµÎ¹Î±",
+      "slug": "i-i-i-i-i-i-i-i-i-cy04l001"
+    },
+    "code": {
+      "id": "CY04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.729",
+      "lon": "32.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î§Î¿Î»ÎµÏ„Ï�Î¹Î¬",
+      "en": "Î§Î¿Î»ÎµÏ„Ï�Î¹Î¬",
+      "slug": "i-i-i-i-i-i-i-i-cy04l002"
+    },
+    "code": {
+      "id": "CY04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.774",
+      "lon": "32.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î‘ÎºÎ¿Ï…Ï�ÏƒÏŒÏ‚",
+      "en": "Î‘ÎºÎ¿Ï…Ï�ÏƒÏŒÏ‚",
+      "slug": "i-i-i-i-i-i-i-i-cy04l003"
+    },
+    "code": {
+      "id": "CY04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.887",
+      "lon": "32.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î£Ï„Î±Ï…Ï�Î¿ÎºÏŒÎ½Î½Î¿Ï…",
+      "en": "Î£Ï„Î±Ï…Ï�Î¿ÎºÏŒÎ½Î½Î¿Ï…",
+      "slug": "i-i-i-i-i-i-i-i-i-i-i-i-cy04l004"
+    },
+    "code": {
+      "id": "CY04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.785",
+      "lon": "32.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î£Î±Î»Î±Î¼Î¹Î¿Ï�",
+      "en": "Î£Î±Î»Î±Î¼Î¹Î¿Ï�",
+      "slug": "i-i-i-i-i-i-i-i-cy04l005"
+    },
+    "code": {
+      "id": "CY04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.841",
+      "lon": "32.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î£Ï„Î±Ï„ÏŒÏ‚-Ê¼Î³Î¹Î¿Ï‚ Î¦ÏŽÏ„Î¹Î¿Ï‚",
+      "en": "Î£Ï„Î±Ï„ÏŒÏ‚-Ê¼Î³Î¹Î¿Ï‚ Î¦ÏŽÏ„Î¹Î¿Ï‚",
+      "slug": "i-i-i-i-i-i-e-i-i-i-i-i-izi-i-i-i-cy04l006"
+    },
+    "code": {
+      "id": "CY04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.891",
+      "lon": "32.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î˜ÎµÎ»Î­Ï„Ï�Î±",
+      "en": "Î˜ÎµÎ»Î­Ï„Ï�Î±",
+      "slug": "i-i-i-i-i-i-i-cy04l007"
+    },
+    "code": {
+      "id": "CY04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.913",
+      "lon": "32.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎœÎ±Ï�Î¯",
+      "en": "ÎœÎ±Ï�Î¯",
+      "slug": "i-i-i-i-cy05l001"
+    },
+    "code": {
+      "id": "CY05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.741",
+      "lon": "33.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎšÎ±Î»Î±Î²Î±ÏƒÏŒÏ‚",
+      "en": "ÎšÎ±Î»Î±Î²Î±ÏƒÏŒÏ‚",
+      "slug": "isi-i-i-i-i-i-i-i-cy05l002"
+    },
+    "code": {
+      "id": "CY05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.772",
+      "lon": "33.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎŸÎ´Î¿Ï�",
+      "en": "ÎŸÎ´Î¿Ï�",
+      "slug": "iyi-i-i-cy05l003"
+    },
+    "code": {
+      "id": "CY05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.886",
+      "lon": "33.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎœÎ±Î¸Î¹ÎºÎ¿Î»ÏŽÎ½Î·",
+      "en": "ÎœÎ±Î¸Î¹ÎºÎ¿Î»ÏŽÎ½Î·",
+      "slug": "i-i-i-i-i-i-i-izi-i-cy06l001"
+    },
+    "code": {
+      "id": "CY06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.772",
+      "lon": "33.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î‘ÏˆÎ¹Î¿Ï�",
+      "en": "Î‘ÏˆÎ¹Î¿Ï�",
+      "slug": "i-i-i-i-i-cy06l002"
+    },
+    "code": {
+      "id": "CY06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.798",
+      "lon": "33.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L003",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎšÎ¿Ï�Ï†Î®",
+      "en": "ÎšÎ¿Ï�Ï†Î®",
+      "slug": "isi-i-i-i-cy06l003"
+    },
+    "code": {
+      "id": "CY06L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.807",
+      "lon": "32.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L004",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î›Î¹Î¼Î½Î¬Ï„Î·Ï‚",
+      "en": "Î›Î¹Î¼Î½Î¬Ï„Î·Ï‚",
+      "slug": "i-i-i-i-i-i-i-i-cy06l004"
+    },
+    "code": {
+      "id": "CY06L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.815",
+      "lon": "32.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L005",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î‘Ï�Î¼ÎµÎ½Î¿Ï‡ÏŽÏ�Î¹",
+      "en": "Î‘Ï�Î¼ÎµÎ½Î¿Ï‡ÏŽÏ�Î¹",
+      "slug": "i-i-i-i-i-i-i-izi-i-cy06l005"
+    },
+    "code": {
+      "id": "CY06L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.745",
+      "lon": "33.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L006",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î¦Î¿Î¹Î½Î¹ÎºÎ¬Ï�Î¹Î±",
+      "en": "Î¦Î¿Î¹Î½Î¹ÎºÎ¬Ï�Î¹Î±",
+      "slug": "i-i-i-i-i-i-i-i-i-i-cy06l006"
+    },
+    "code": {
+      "id": "CY06L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.753",
+      "lon": "33.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L007",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î‘ÎºÏ�Î¿Ï�Î½Ï„Î±",
+      "en": "Î‘ÎºÏ�Î¿Ï�Î½Ï„Î±",
+      "slug": "i-i-i-i-i-i-i-i-cy06l007"
+    },
+    "code": {
+      "id": "CY06L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.765",
+      "lon": "33.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L008",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î‘ÏƒÎ³Î¬Ï„Î±",
+      "en": "Î‘ÏƒÎ³Î¬Ï„Î±",
+      "slug": "i-i-i-i-i-i-cy06l008"
+    },
+    "code": {
+      "id": "CY06L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.78",
+      "lon": "33.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L009",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î•Ï€Ï„Î±Î³ÏŽÎ½ÎµÎ¹Î±",
+      "en": "Î•Ï€Ï„Î±Î³ÏŽÎ½ÎµÎ¹Î±",
+      "slug": "i-i-i-i-i-izi-i-i-i-cy06l009"
+    },
+    "code": {
+      "id": "CY06L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.848",
+      "lon": "33.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L010",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î”Î¹ÎµÏ�ÏŽÎ½Î±",
+      "en": "Î”Î¹ÎµÏ�ÏŽÎ½Î±",
+      "slug": "i-i-i-i-izi-i-cy06l010"
+    },
+    "code": {
+      "id": "CY06L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.831",
+      "lon": "33.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L011",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î†Î³Î¹Î¿Ï‚ Î Î¬Ï…Î»Î¿Ï‚",
+      "en": "Î†Î³Î¹Î¿Ï‚ Î Î¬Ï…Î»Î¿Ï‚",
+      "slug": "i-i-i-i-i-i-i-i-i-i-i-cy06l011"
+    },
+    "code": {
+      "id": "CY06L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.864",
+      "lon": "33.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L012",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î†Î³Î¹Î¿Ï‚ ÎšÏ‰Î½ÏƒÏ„Î±Î½Ï„Î¯Î½Î¿Ï‚",
+      "en": "Î†Î³Î¹Î¿Ï‚ ÎšÏ‰Î½ÏƒÏ„Î±Î½Ï„Î¯Î½Î¿Ï‚",
+      "slug": "i-i-i-i-i-isi-i-i-i-i-i-i-i-i-i-i-cy06l012"
+    },
+    "code": {
+      "id": "CY06L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.867",
+      "lon": "33.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L013",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î£Ï…ÎºÏŒÏ€ÎµÏ„Ï�Î±",
+      "en": "Î£Ï…ÎºÏŒÏ€ÎµÏ„Ï�Î±",
+      "slug": "i-i-i-i-i-i-i-i-i-cy06l013"
+    },
+    "code": {
+      "id": "CY06L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.879",
+      "lon": "33.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L014",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î–Ï‰Î¿Ï€Î·Î³Î®",
+      "en": "Î–Ï‰Î¿Ï€Î·Î³Î®",
+      "slug": "i-i-i-i-i-i-i-cy06l014"
+    },
+    "code": {
+      "id": "CY06L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.863",
+      "lon": "33.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L015",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î£Ï‰Ï„Î®Ï�Î±",
+      "en": "Î£Ï‰Ï„Î®Ï�Î±",
+      "slug": "i-i-i-i-i-i-cy06l015"
+    },
+    "code": {
+      "id": "CY06L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.713",
+      "lon": "32.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L016",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î Î±Ï�Î±Î¼Î¬Î»Î¹",
+      "en": "Î Î±Ï�Î±Î¼Î¬Î»Î¹",
+      "slug": "i-i-i-i-i-i-i-i-cy06l016"
+    },
+    "code": {
+      "id": "CY06L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.694",
+      "lon": "32.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L017",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î†Î»Î±ÏƒÏƒÎ±",
+      "en": "Î†Î»Î±ÏƒÏƒÎ±",
+      "slug": "i-i-i-i-i-i-cy06l017"
+    },
+    "code": {
+      "id": "CY06L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.757",
+      "lon": "32.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L018",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î†Î³Î¹Î¿Ï‚ Î‘Î¼Î²Ï�ÏŒÏƒÎ¹Î¿Ï‚",
+      "en": "Î†Î³Î¹Î¿Ï‚ Î‘Î¼Î²Ï�ÏŒÏƒÎ¹Î¿Ï‚",
+      "slug": "i-i-i-i-i-i-i-i-i-i-i-i-i-i-cy06l018"
+    },
+    "code": {
+      "id": "CY06L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.781",
+      "lon": "32.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L019",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î†Î³Î¹Î¿Ï‚ Î˜ÎµÏ�Î¬Ï€Ï‰Î½",
+      "en": "Î†Î³Î¹Î¿Ï‚ Î˜ÎµÏ�Î¬Ï€Ï‰Î½",
+      "slug": "i-i-i-i-i-i-i-i-i-i-i-i-cy06l019"
+    },
+    "code": {
+      "id": "CY06L019",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.798",
+      "lon": "32.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L020",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î”Ï‰Ï�Î¬",
+      "en": "Î”Ï‰Ï�Î¬",
+      "slug": "i-i-i-i-cy06l020"
+    },
+    "code": {
+      "id": "CY06L020",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.782",
+      "lon": "32.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L021",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î’Î¿Ï…Î½Î¯",
+      "en": "Î’Î¿Ï…Î½Î¯",
+      "slug": "i-i-i-i-i-cy06l021"
+    },
+    "code": {
+      "id": "CY06L021",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.824",
+      "lon": "32.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L022",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎŒÎ¼Î¿Î´Î¿Ï‚",
+      "en": "ÎŒÎ¼Î¿Î´Î¿Ï‚",
+      "slug": "i-i-i-i-i-i-cy06l022"
+    },
+    "code": {
+      "id": "CY06L022",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.849",
+      "lon": "32.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L023",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎšÏ…Ï€ÎµÏ�Î¿Ï�Î½Ï„Î±",
+      "en": "ÎšÏ…Ï€ÎµÏ�Î¿Ï�Î½Ï„Î±",
+      "slug": "isi-i-i-i-i-i-i-i-i-cy06l023"
+    },
+    "code": {
+      "id": "CY06L023",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.939",
+      "lon": "32.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î†Ï‡Î½Î±",
+      "en": "Î†Ï‡Î½Î±",
+      "slug": "i-i-i-i-cy01l001"
+    },
+    "code": {
+      "id": "CY01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY01",
+      "level": 1,
+      "name": {
+        "local": "Αμμόχωστος",
+        "en": "Famagusta",
+        "slug": "famagusta-cy01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY01",
+        "level": 1,
+        "name": {
+          "local": "Αμμόχωστος",
+          "en": "Famagusta",
+          "slug": "famagusta-cy01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.055",
+      "lon": "33.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎšÎ¿Ï„ÏƒÎ¹Î¬Ï„Î·Ï‚",
+      "en": "ÎšÎ¿Ï„ÏƒÎ¹Î¬Ï„Î·Ï‚",
+      "slug": "isi-i-i-i-i-i-i-i-cy03l001"
+    },
+    "code": {
+      "id": "CY03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.011",
+      "lon": "33.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎœÎ±Ï�Î³Î¯",
+      "en": "ÎœÎ±Ï�Î³Î¯",
+      "slug": "i-i-i-i-i-cy03l002"
+    },
+    "code": {
+      "id": "CY03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.024",
+      "lon": "33.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î£Ï€Î®Î»Î¹Î±",
+      "en": "Î£Ï€Î®Î»Î¹Î±",
+      "slug": "i-i-i-i-i-i-cy03l003"
+    },
+    "code": {
+      "id": "CY03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.967",
+      "lon": "32.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L004",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎšÎ±Î»Î¹Î¬Î½Î±",
+      "en": "ÎšÎ±Î»Î¹Î¬Î½Î±",
+      "slug": "isi-i-i-i-i-i-cy03l004"
+    },
+    "code": {
+      "id": "CY03L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.012",
+      "lon": "32.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L005",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎŸÎ¯ÎºÎ¿Ï‚",
+      "en": "ÎŸÎ¯ÎºÎ¿Ï‚",
+      "slug": "iyi-i-i-i-cy03l005"
+    },
+    "code": {
+      "id": "CY03L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.001",
+      "lon": "32.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L006",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î¤ÏƒÎ±ÎºÎ¯ÏƒÏ„Ï�Î±",
+      "en": "Î¤ÏƒÎ±ÎºÎ¯ÏƒÏ„Ï�Î±",
+      "slug": "i-i-i-i-i-i-i-i-i-cy03l006"
+    },
+    "code": {
+      "id": "CY03L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.024",
+      "lon": "32.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L007",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î Î±Ï‡Ï�Î±Î¼Î¼Î¿Ï‚",
+      "en": "Î Î±Ï‡Ï�Î±Î¼Î¼Î¿Ï‚",
+      "slug": "i-i-i-i-i-i-i-i-i-cy03l007"
+    },
+    "code": {
+      "id": "CY03L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.171",
+      "lon": "32.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î‘Î²Î´ÎµÎ»Î»ÎµÏ�ÏŒ",
+      "en": "Î‘Î²Î´ÎµÎ»Î»ÎµÏ�ÏŒ",
+      "slug": "i-i-i-i-i-i-i-i-i-cy05l004"
+    },
+    "code": {
+      "id": "CY05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.01",
+      "lon": "33.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎœÎµÎ½ÎµÎ¿Ï�",
+      "en": "ÎœÎµÎ½ÎµÎ¿Ï�",
+      "slug": "i-i-i-i-i-i-cy05l005"
+    },
+    "code": {
+      "id": "CY05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.857",
+      "lon": "33.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L024",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mathikoloni",
+      "en": "Mathikoloni",
+      "slug": "mathikoloni-cy06l024"
+    },
+    "code": {
+      "id": "CY06L024",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.767",
+      "lon": "33.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L008",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Polystipos",
+      "en": "Polystipos",
+      "slug": "polystipos-cy03l008"
+    },
+    "code": {
+      "id": "CY03L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.942",
+      "lon": "33.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Khlorakas",
+      "en": "Khlorakas",
+      "slug": "khlorakas-cy04l008"
+    },
+    "code": {
+      "id": "CY04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.804",
+      "lon": "32.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L009",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lymbia",
+      "en": "Lymbia",
+      "slug": "lymbia-cy03l009"
+    },
+    "code": {
+      "id": "CY03L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35",
+      "lon": "33.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Statos and Ayios Photios",
+      "en": "Statos and Ayios Photios",
+      "slug": "statos-and-ayios-photios-cy04l009"
+    },
+    "code": {
+      "id": "CY04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.883",
+      "lon": "32.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Protaras",
+      "en": "Protaras",
+      "slug": "protaras-cy01l002"
+    },
+    "code": {
+      "id": "CY01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY01",
+      "level": 1,
+      "name": {
+        "local": "Αμμόχωστος",
+        "en": "Famagusta",
+        "slug": "famagusta-cy01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY01",
+        "level": 1,
+        "name": {
+          "local": "Αμμόχωστος",
+          "en": "Famagusta",
+          "slug": "famagusta-cy01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.013",
+      "lon": "34.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L010",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Koloni",
+      "en": "Koloni",
+      "slug": "koloni-cy04l010"
+    },
+    "code": {
+      "id": "CY04L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.754",
+      "lon": "32.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L010",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sha",
+      "en": "Sha",
+      "slug": "sha-cy03l010"
+    },
+    "code": {
+      "id": "CY03L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.938",
+      "lon": "33.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L011",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ayia Marinoudha",
+      "en": "Ayia Marinoudha",
+      "slug": "ayia-marinoudha-cy04l011"
+    },
+    "code": {
+      "id": "CY04L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.763",
+      "lon": "32.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L025",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pano Kividhes",
+      "en": "Pano Kividhes",
+      "slug": "pano-kividhes-cy06l025"
+    },
+    "code": {
+      "id": "CY06L025",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.771",
+      "lon": "32.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L011",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pakhyammos",
+      "en": "Pakhyammos",
+      "slug": "pakhyammos-cy03l011"
+    },
+    "code": {
+      "id": "CY03L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.168",
+      "lon": "32.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L012",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Yeri",
+      "en": "Yeri",
+      "slug": "yeri-cy03l012"
+    },
+    "code": {
+      "id": "CY03L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.1",
+      "lon": "33.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L026",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dhora",
+      "en": "Dhora",
+      "slug": "dhora-cy06l026"
+    },
+    "code": {
+      "id": "CY06L026",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.783",
+      "lon": "32.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY02L001",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lapithos",
+      "en": "Lapithos",
+      "slug": "lapithos-cy02l001"
+    },
+    "code": {
+      "id": "CY02L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY02",
+      "level": 1,
+      "name": {
+        "local": "Κερύνεια",
+        "en": "Kyrenia",
+        "slug": "kyrenia-cy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY02",
+        "level": 1,
+        "name": {
+          "local": "Κερύνεια",
+          "en": "Kyrenia",
+          "slug": "kyrenia-cy02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.338",
+      "lon": "33.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L027",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kellaki",
+      "en": "Kellaki",
+      "slug": "kellaki-cy06l027"
+    },
+    "code": {
+      "id": "CY06L027",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.817",
+      "lon": "33.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L028",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Monagroulli",
+      "en": "Monagroulli",
+      "slug": "monagroulli-cy06l028"
+    },
+    "code": {
+      "id": "CY06L028",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.75",
+      "lon": "33.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L013",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pano Phlasou",
+      "en": "Pano Phlasou",
+      "slug": "pano-phlasou-cy03l013"
+    },
+    "code": {
+      "id": "CY03L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.068",
+      "lon": "32.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L014",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Phterykoudhi",
+      "en": "Phterykoudhi",
+      "slug": "phterykoudhi-cy03l014"
+    },
+    "code": {
+      "id": "CY03L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.946",
+      "lon": "33.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L012",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pano Arodhes",
+      "en": "Pano Arodhes",
+      "slug": "pano-arodhes-cy04l012"
+    },
+    "code": {
+      "id": "CY04L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.938",
+      "lon": "32.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L015",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kochati",
+      "en": "Kochati",
+      "slug": "kochati-cy03l015"
+    },
+    "code": {
+      "id": "CY03L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.013",
+      "lon": "33.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY03L016",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chakistra",
+      "en": "Chakistra",
+      "slug": "chakistra-cy03l016"
+    },
+    "code": {
+      "id": "CY03L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY03",
+        "level": 1,
+        "name": {
+          "local": "Λευκωσία",
+          "en": "Nicosia",
+          "slug": "nicosia-cy03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.024",
+      "lon": "32.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY06L029",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ayios Tykhonas",
+      "en": "Ayios Tykhonas",
+      "slug": "ayios-tykhonas-cy06l029"
+    },
+    "code": {
+      "id": "CY06L029",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY06",
+        "level": 1,
+        "name": {
+          "local": "Λεμεσός",
+          "en": "Limassol",
+          "slug": "limassol-cy06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.725",
+      "lon": "33.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Athna",
+      "en": "Athna",
+      "slug": "athna-cy01l003"
+    },
+    "code": {
+      "id": "CY01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY01",
+      "level": 1,
+      "name": {
+        "local": "Αμμόχωστος",
+        "en": "Famagusta",
+        "slug": "famagusta-cy01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY01",
+        "level": 1,
+        "name": {
+          "local": "Αμμόχωστος",
+          "en": "Famagusta",
+          "slug": "famagusta-cy01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.058",
+      "lon": "33.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY04L013",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Simou",
+      "en": "Simou",
+      "slug": "simou-cy04l013"
+    },
+    "code": {
+      "id": "CY04L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY04",
+        "level": 1,
+        "name": {
+          "local": "Πάφος",
+          "en": "Paphos",
+          "slug": "paphos-cy04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.933",
+      "lon": "32.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

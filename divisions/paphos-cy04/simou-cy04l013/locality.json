@@ -1,0 +1,45 @@
+{
+  "id": "CY04L013",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Simou",
+    "en": "Simou",
+    "slug": "simou-cy04l013"
+  },
+  "code": {
+    "id": "CY04L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY04",
+    "level": 1,
+    "name": {
+      "local": "Πάφος",
+      "en": "Paphos",
+      "slug": "paphos-cy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.933",
+    "lon": "32.5"
+  },
+  "metadata": {},
+  "source": {}
+}

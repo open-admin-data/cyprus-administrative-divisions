@@ -1,0 +1,45 @@
+{
+  "id": "CY04L008",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Khlorakas",
+    "en": "Khlorakas",
+    "slug": "khlorakas-cy04l008"
+  },
+  "code": {
+    "id": "CY04L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY04",
+    "level": 1,
+    "name": {
+      "local": "Πάφος",
+      "en": "Paphos",
+      "slug": "paphos-cy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.804",
+    "lon": "32.408"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,74 @@
+# Paphos — Cyprus Administrative Divisions
+
+> 13 localitys
+> Code: CY04
+> Coordinates: 34.899, 32.525
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Localitys
+
+### Ayia Marinoudha
+
+Code: CY04L011, Coordinates: 34.763, 32.475
+
+
+### Î‘ÎºÎ¿Ï…Ï�ÏƒÏŒÏ‚
+
+Code: CY04L003, Coordinates: 34.887, 32.421
+
+
+### Î§Î¿Î»ÎµÏ„Ï�Î¹Î¬
+
+Code: CY04L002, Coordinates: 34.774, 32.586
+
+
+### Î˜ÎµÎ»Î­Ï„Ï�Î±
+
+Code: CY04L007, Coordinates: 34.913, 32.456
+
+
+### Î£Ï„Î±Ï…Ï�Î¿ÎºÏŒÎ½Î½Î¿Ï…
+
+Code: CY04L004, Coordinates: 34.785, 32.618
+
+
+### Î£Ï„Î±Ï„ÏŒÏ‚-Ê¼Î³Î¹Î¿Ï‚ Î¦ÏŽÏ„Î¹Î¿Ï‚
+
+Code: CY04L006, Coordinates: 34.891, 32.61
+
+
+### Î£Î±Î»Î±Î¼Î¹Î¿Ï�
+
+Code: CY04L005, Coordinates: 34.841, 32.69
+
+
+### Î�Î¹ÎºÏŒÎºÎ»ÎµÎ¹Î±
+
+Code: CY04L001, Coordinates: 34.729, 32.575
+
+
+### Khlorakas
+
+Code: CY04L008, Coordinates: 34.804, 32.408
+
+
+### Koloni
+
+Code: CY04L010, Coordinates: 34.754, 32.467
+
+
+### Pano Arodhes
+
+Code: CY04L012, Coordinates: 34.938, 32.408
+
+
+### Simou
+
+Code: CY04L013, Coordinates: 34.933, 32.5
+
+
+### Statos and Ayios Photios
+
+Code: CY04L009, Coordinates: 34.883, 32.625
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "CY01L003",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Athna",
+    "en": "Athna",
+    "slug": "athna-cy01l003"
+  },
+  "code": {
+    "id": "CY01L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY01",
+    "level": 1,
+    "name": {
+      "local": "Αμμόχωστος",
+      "en": "Famagusta",
+      "slug": "famagusta-cy01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY01",
+      "level": 1,
+      "name": {
+        "local": "Αμμόχωστος",
+        "en": "Famagusta",
+        "slug": "famagusta-cy01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.058",
+    "lon": "33.783"
+  },
+  "metadata": {},
+  "source": {}
+}

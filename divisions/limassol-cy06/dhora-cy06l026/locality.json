@@ -1,0 +1,45 @@
+{
+  "id": "CY06L026",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dhora",
+    "en": "Dhora",
+    "slug": "dhora-cy06l026"
+  },
+  "code": {
+    "id": "CY06L026",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY06",
+    "level": 1,
+    "name": {
+      "local": "Λεμεσός",
+      "en": "Limassol",
+      "slug": "limassol-cy06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.783",
+    "lon": "32.737"
+  },
+  "metadata": {},
+  "source": {}
+}

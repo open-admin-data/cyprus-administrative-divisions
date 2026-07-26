@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Cyprus Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-26"
+url: "https://github.com/open-admin-data/cyprus-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/cyprus-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - cyprus
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Cyprus's administrative hierarchy:
+  6 districts, 67 localitys.
+  Bilingual with coordinates and postal codes where available.

@@ -1,0 +1,45 @@
+{
+  "id": "CY06L029",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ayios Tykhonas",
+    "en": "Ayios Tykhonas",
+    "slug": "ayios-tykhonas-cy06l029"
+  },
+  "code": {
+    "id": "CY06L029",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY06",
+    "level": 1,
+    "name": {
+      "local": "Λεμεσός",
+      "en": "Limassol",
+      "slug": "limassol-cy06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.725",
+    "lon": "33.142"
+  },
+  "metadata": {},
+  "source": {}
+}

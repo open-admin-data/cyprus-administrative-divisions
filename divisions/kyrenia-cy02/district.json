@@ -1,0 +1,33 @@
+{
+  "id": "CY02",
+  "level": 1,
+  "level_name": {
+    "local": "Επαρχία",
+    "en": "District"
+  },
+  "name": {
+    "local": "Κερύνεια",
+    "en": "Kyrenia",
+    "slug": "kyrenia-cy02"
+  },
+  "code": {
+    "id": "CY02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.303",
+    "lon": "33.206"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cy/districts/kyrenia-cy02/",
+    "api": "https://openadmindata.org/api/cy/"
+  }
+}

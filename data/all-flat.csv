@@ -1,0 +1,8 @@
+# Data from Open Admin Data (https://openadmindata.org/cy/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/cyprus-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.locality,zip_codes,geo.lat,geo.lon,source_url
+CY01,1,Επαρχία,District,Αμμόχωστος,Famagusta,famagusta-cy01,CY01,,,,,,3,,35.204,33.748,https://openadmindata.org/cy/districts/famagusta-cy01/
+CY02,1,Επαρχία,District,Κερύνεια,Kyrenia,kyrenia-cy02,CY02,,,,,,1,,35.303,33.206,https://openadmindata.org/cy/districts/kyrenia-cy02/
+CY03,1,Επαρχία,District,Λευκωσία,Nicosia,nicosia-cy03,CY03,,,,,,16,,35.075,33.11,https://openadmindata.org/cy/districts/nicosia-cy03/
+CY04,1,Επαρχία,District,Πάφος,Paphos,paphos-cy04,CY04,,,,,,13,,34.899,32.525,https://openadmindata.org/cy/districts/paphos-cy04/
+CY05,1,Επαρχία,District,Λάρνακα,Larnaca,larnaca-cy05,CY05,,,,,,5,,34.872,33.462,https://openadmindata.org/cy/districts/larnaca-cy05/
+CY06,1,Επαρχία,District,Λεμεσός,Limassol,limassol-cy06,CY06,,,,,,29,,34.791,32.952,https://openadmindata.org/cy/districts/limassol-cy06/

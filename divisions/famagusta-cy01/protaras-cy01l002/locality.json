@@ -1,0 +1,45 @@
+{
+  "id": "CY01L002",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Protaras",
+    "en": "Protaras",
+    "slug": "protaras-cy01l002"
+  },
+  "code": {
+    "id": "CY01L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY01",
+    "level": 1,
+    "name": {
+      "local": "Αμμόχωστος",
+      "en": "Famagusta",
+      "slug": "famagusta-cy01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY01",
+      "level": 1,
+      "name": {
+        "local": "Αμμόχωστος",
+        "en": "Famagusta",
+        "slug": "famagusta-cy01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.013",
+    "lon": "34.058"
+  },
+  "metadata": {},
+  "source": {}
+}

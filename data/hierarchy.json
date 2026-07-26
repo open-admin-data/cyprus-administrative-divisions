@@ -1,0 +1,893 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/cy/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/cyprus-administrative-divisions",
+  "data": [
+    {
+      "id": "CY01",
+      "name": {
+        "local": "Αμμόχωστος",
+        "en": "Famagusta",
+        "slug": "famagusta-cy01"
+      },
+      "code": {
+        "id": "CY01",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CY01L001",
+          "name": {
+            "local": "Î†Ï‡Î½Î±",
+            "en": "Î†Ï‡Î½Î±",
+            "slug": "i-i-i-i-cy01l001"
+          },
+          "code": {
+            "id": "CY01L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY01L002",
+          "name": {
+            "local": "Protaras",
+            "en": "Protaras",
+            "slug": "protaras-cy01l002"
+          },
+          "code": {
+            "id": "CY01L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY01L003",
+          "name": {
+            "local": "Athna",
+            "en": "Athna",
+            "slug": "athna-cy01l003"
+          },
+          "code": {
+            "id": "CY01L003",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CY02",
+      "name": {
+        "local": "Κερύνεια",
+        "en": "Kyrenia",
+        "slug": "kyrenia-cy02"
+      },
+      "code": {
+        "id": "CY02",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CY02L001",
+          "name": {
+            "local": "Lapithos",
+            "en": "Lapithos",
+            "slug": "lapithos-cy02l001"
+          },
+          "code": {
+            "id": "CY02L001",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CY03",
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      },
+      "code": {
+        "id": "CY03",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CY03L001",
+          "name": {
+            "local": "ÎšÎ¿Ï„ÏƒÎ¹Î¬Ï„Î·Ï‚",
+            "en": "ÎšÎ¿Ï„ÏƒÎ¹Î¬Ï„Î·Ï‚",
+            "slug": "isi-i-i-i-i-i-i-i-cy03l001"
+          },
+          "code": {
+            "id": "CY03L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L002",
+          "name": {
+            "local": "ÎœÎ±Ï�Î³Î¯",
+            "en": "ÎœÎ±Ï�Î³Î¯",
+            "slug": "i-i-i-i-i-cy03l002"
+          },
+          "code": {
+            "id": "CY03L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L003",
+          "name": {
+            "local": "Î£Ï€Î®Î»Î¹Î±",
+            "en": "Î£Ï€Î®Î»Î¹Î±",
+            "slug": "i-i-i-i-i-i-cy03l003"
+          },
+          "code": {
+            "id": "CY03L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L004",
+          "name": {
+            "local": "ÎšÎ±Î»Î¹Î¬Î½Î±",
+            "en": "ÎšÎ±Î»Î¹Î¬Î½Î±",
+            "slug": "isi-i-i-i-i-i-cy03l004"
+          },
+          "code": {
+            "id": "CY03L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L005",
+          "name": {
+            "local": "ÎŸÎ¯ÎºÎ¿Ï‚",
+            "en": "ÎŸÎ¯ÎºÎ¿Ï‚",
+            "slug": "iyi-i-i-i-cy03l005"
+          },
+          "code": {
+            "id": "CY03L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L006",
+          "name": {
+            "local": "Î¤ÏƒÎ±ÎºÎ¯ÏƒÏ„Ï�Î±",
+            "en": "Î¤ÏƒÎ±ÎºÎ¯ÏƒÏ„Ï�Î±",
+            "slug": "i-i-i-i-i-i-i-i-i-cy03l006"
+          },
+          "code": {
+            "id": "CY03L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L007",
+          "name": {
+            "local": "Î Î±Ï‡Ï�Î±Î¼Î¼Î¿Ï‚",
+            "en": "Î Î±Ï‡Ï�Î±Î¼Î¼Î¿Ï‚",
+            "slug": "i-i-i-i-i-i-i-i-i-cy03l007"
+          },
+          "code": {
+            "id": "CY03L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L008",
+          "name": {
+            "local": "Polystipos",
+            "en": "Polystipos",
+            "slug": "polystipos-cy03l008"
+          },
+          "code": {
+            "id": "CY03L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L009",
+          "name": {
+            "local": "Lymbia",
+            "en": "Lymbia",
+            "slug": "lymbia-cy03l009"
+          },
+          "code": {
+            "id": "CY03L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L010",
+          "name": {
+            "local": "Sha",
+            "en": "Sha",
+            "slug": "sha-cy03l010"
+          },
+          "code": {
+            "id": "CY03L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L011",
+          "name": {
+            "local": "Pakhyammos",
+            "en": "Pakhyammos",
+            "slug": "pakhyammos-cy03l011"
+          },
+          "code": {
+            "id": "CY03L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L012",
+          "name": {
+            "local": "Yeri",
+            "en": "Yeri",
+            "slug": "yeri-cy03l012"
+          },
+          "code": {
+            "id": "CY03L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L013",
+          "name": {
+            "local": "Pano Phlasou",
+            "en": "Pano Phlasou",
+            "slug": "pano-phlasou-cy03l013"
+          },
+          "code": {
+            "id": "CY03L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L014",
+          "name": {
+            "local": "Phterykoudhi",
+            "en": "Phterykoudhi",
+            "slug": "phterykoudhi-cy03l014"
+          },
+          "code": {
+            "id": "CY03L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L015",
+          "name": {
+            "local": "Kochati",
+            "en": "Kochati",
+            "slug": "kochati-cy03l015"
+          },
+          "code": {
+            "id": "CY03L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY03L016",
+          "name": {
+            "local": "Chakistra",
+            "en": "Chakistra",
+            "slug": "chakistra-cy03l016"
+          },
+          "code": {
+            "id": "CY03L016",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CY04",
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      },
+      "code": {
+        "id": "CY04",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CY04L001",
+          "name": {
+            "local": "Î�Î¹ÎºÏŒÎºÎ»ÎµÎ¹Î±",
+            "en": "Î�Î¹ÎºÏŒÎºÎ»ÎµÎ¹Î±",
+            "slug": "i-i-i-i-i-i-i-i-i-cy04l001"
+          },
+          "code": {
+            "id": "CY04L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L002",
+          "name": {
+            "local": "Î§Î¿Î»ÎµÏ„Ï�Î¹Î¬",
+            "en": "Î§Î¿Î»ÎµÏ„Ï�Î¹Î¬",
+            "slug": "i-i-i-i-i-i-i-i-cy04l002"
+          },
+          "code": {
+            "id": "CY04L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L003",
+          "name": {
+            "local": "Î‘ÎºÎ¿Ï…Ï�ÏƒÏŒÏ‚",
+            "en": "Î‘ÎºÎ¿Ï…Ï�ÏƒÏŒÏ‚",
+            "slug": "i-i-i-i-i-i-i-i-cy04l003"
+          },
+          "code": {
+            "id": "CY04L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L004",
+          "name": {
+            "local": "Î£Ï„Î±Ï…Ï�Î¿ÎºÏŒÎ½Î½Î¿Ï…",
+            "en": "Î£Ï„Î±Ï…Ï�Î¿ÎºÏŒÎ½Î½Î¿Ï…",
+            "slug": "i-i-i-i-i-i-i-i-i-i-i-i-cy04l004"
+          },
+          "code": {
+            "id": "CY04L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L005",
+          "name": {
+            "local": "Î£Î±Î»Î±Î¼Î¹Î¿Ï�",
+            "en": "Î£Î±Î»Î±Î¼Î¹Î¿Ï�",
+            "slug": "i-i-i-i-i-i-i-i-cy04l005"
+          },
+          "code": {
+            "id": "CY04L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L006",
+          "name": {
+            "local": "Î£Ï„Î±Ï„ÏŒÏ‚-Ê¼Î³Î¹Î¿Ï‚ Î¦ÏŽÏ„Î¹Î¿Ï‚",
+            "en": "Î£Ï„Î±Ï„ÏŒÏ‚-Ê¼Î³Î¹Î¿Ï‚ Î¦ÏŽÏ„Î¹Î¿Ï‚",
+            "slug": "i-i-i-i-i-i-e-i-i-i-i-i-izi-i-i-i-cy04l006"
+          },
+          "code": {
+            "id": "CY04L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L007",
+          "name": {
+            "local": "Î˜ÎµÎ»Î­Ï„Ï�Î±",
+            "en": "Î˜ÎµÎ»Î­Ï„Ï�Î±",
+            "slug": "i-i-i-i-i-i-i-cy04l007"
+          },
+          "code": {
+            "id": "CY04L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L008",
+          "name": {
+            "local": "Khlorakas",
+            "en": "Khlorakas",
+            "slug": "khlorakas-cy04l008"
+          },
+          "code": {
+            "id": "CY04L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L009",
+          "name": {
+            "local": "Statos and Ayios Photios",
+            "en": "Statos and Ayios Photios",
+            "slug": "statos-and-ayios-photios-cy04l009"
+          },
+          "code": {
+            "id": "CY04L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L010",
+          "name": {
+            "local": "Koloni",
+            "en": "Koloni",
+            "slug": "koloni-cy04l010"
+          },
+          "code": {
+            "id": "CY04L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L011",
+          "name": {
+            "local": "Ayia Marinoudha",
+            "en": "Ayia Marinoudha",
+            "slug": "ayia-marinoudha-cy04l011"
+          },
+          "code": {
+            "id": "CY04L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L012",
+          "name": {
+            "local": "Pano Arodhes",
+            "en": "Pano Arodhes",
+            "slug": "pano-arodhes-cy04l012"
+          },
+          "code": {
+            "id": "CY04L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY04L013",
+          "name": {
+            "local": "Simou",
+            "en": "Simou",
+            "slug": "simou-cy04l013"
+          },
+          "code": {
+            "id": "CY04L013",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CY05",
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      },
+      "code": {
+        "id": "CY05",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CY05L001",
+          "name": {
+            "local": "ÎœÎ±Ï�Î¯",
+            "en": "ÎœÎ±Ï�Î¯",
+            "slug": "i-i-i-i-cy05l001"
+          },
+          "code": {
+            "id": "CY05L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY05L002",
+          "name": {
+            "local": "ÎšÎ±Î»Î±Î²Î±ÏƒÏŒÏ‚",
+            "en": "ÎšÎ±Î»Î±Î²Î±ÏƒÏŒÏ‚",
+            "slug": "isi-i-i-i-i-i-i-i-cy05l002"
+          },
+          "code": {
+            "id": "CY05L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY05L003",
+          "name": {
+            "local": "ÎŸÎ´Î¿Ï�",
+            "en": "ÎŸÎ´Î¿Ï�",
+            "slug": "iyi-i-i-cy05l003"
+          },
+          "code": {
+            "id": "CY05L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY05L004",
+          "name": {
+            "local": "Î‘Î²Î´ÎµÎ»Î»ÎµÏ�ÏŒ",
+            "en": "Î‘Î²Î´ÎµÎ»Î»ÎµÏ�ÏŒ",
+            "slug": "i-i-i-i-i-i-i-i-i-cy05l004"
+          },
+          "code": {
+            "id": "CY05L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY05L005",
+          "name": {
+            "local": "ÎœÎµÎ½ÎµÎ¿Ï�",
+            "en": "ÎœÎµÎ½ÎµÎ¿Ï�",
+            "slug": "i-i-i-i-i-i-cy05l005"
+          },
+          "code": {
+            "id": "CY05L005",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "CY06",
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      },
+      "code": {
+        "id": "CY06",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "CY06L001",
+          "name": {
+            "local": "ÎœÎ±Î¸Î¹ÎºÎ¿Î»ÏŽÎ½Î·",
+            "en": "ÎœÎ±Î¸Î¹ÎºÎ¿Î»ÏŽÎ½Î·",
+            "slug": "i-i-i-i-i-i-i-izi-i-cy06l001"
+          },
+          "code": {
+            "id": "CY06L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L002",
+          "name": {
+            "local": "Î‘ÏˆÎ¹Î¿Ï�",
+            "en": "Î‘ÏˆÎ¹Î¿Ï�",
+            "slug": "i-i-i-i-i-cy06l002"
+          },
+          "code": {
+            "id": "CY06L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L003",
+          "name": {
+            "local": "ÎšÎ¿Ï�Ï†Î®",
+            "en": "ÎšÎ¿Ï�Ï†Î®",
+            "slug": "isi-i-i-i-cy06l003"
+          },
+          "code": {
+            "id": "CY06L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L004",
+          "name": {
+            "local": "Î›Î¹Î¼Î½Î¬Ï„Î·Ï‚",
+            "en": "Î›Î¹Î¼Î½Î¬Ï„Î·Ï‚",
+            "slug": "i-i-i-i-i-i-i-i-cy06l004"
+          },
+          "code": {
+            "id": "CY06L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L005",
+          "name": {
+            "local": "Î‘Ï�Î¼ÎµÎ½Î¿Ï‡ÏŽÏ�Î¹",
+            "en": "Î‘Ï�Î¼ÎµÎ½Î¿Ï‡ÏŽÏ�Î¹",
+            "slug": "i-i-i-i-i-i-i-izi-i-cy06l005"
+          },
+          "code": {
+            "id": "CY06L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L006",
+          "name": {
+            "local": "Î¦Î¿Î¹Î½Î¹ÎºÎ¬Ï�Î¹Î±",
+            "en": "Î¦Î¿Î¹Î½Î¹ÎºÎ¬Ï�Î¹Î±",
+            "slug": "i-i-i-i-i-i-i-i-i-i-cy06l006"
+          },
+          "code": {
+            "id": "CY06L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L007",
+          "name": {
+            "local": "Î‘ÎºÏ�Î¿Ï�Î½Ï„Î±",
+            "en": "Î‘ÎºÏ�Î¿Ï�Î½Ï„Î±",
+            "slug": "i-i-i-i-i-i-i-i-cy06l007"
+          },
+          "code": {
+            "id": "CY06L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L008",
+          "name": {
+            "local": "Î‘ÏƒÎ³Î¬Ï„Î±",
+            "en": "Î‘ÏƒÎ³Î¬Ï„Î±",
+            "slug": "i-i-i-i-i-i-cy06l008"
+          },
+          "code": {
+            "id": "CY06L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L009",
+          "name": {
+            "local": "Î•Ï€Ï„Î±Î³ÏŽÎ½ÎµÎ¹Î±",
+            "en": "Î•Ï€Ï„Î±Î³ÏŽÎ½ÎµÎ¹Î±",
+            "slug": "i-i-i-i-i-izi-i-i-i-cy06l009"
+          },
+          "code": {
+            "id": "CY06L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L010",
+          "name": {
+            "local": "Î”Î¹ÎµÏ�ÏŽÎ½Î±",
+            "en": "Î”Î¹ÎµÏ�ÏŽÎ½Î±",
+            "slug": "i-i-i-i-izi-i-cy06l010"
+          },
+          "code": {
+            "id": "CY06L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L011",
+          "name": {
+            "local": "Î†Î³Î¹Î¿Ï‚ Î Î¬Ï…Î»Î¿Ï‚",
+            "en": "Î†Î³Î¹Î¿Ï‚ Î Î¬Ï…Î»Î¿Ï‚",
+            "slug": "i-i-i-i-i-i-i-i-i-i-i-cy06l011"
+          },
+          "code": {
+            "id": "CY06L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L012",
+          "name": {
+            "local": "Î†Î³Î¹Î¿Ï‚ ÎšÏ‰Î½ÏƒÏ„Î±Î½Ï„Î¯Î½Î¿Ï‚",
+            "en": "Î†Î³Î¹Î¿Ï‚ ÎšÏ‰Î½ÏƒÏ„Î±Î½Ï„Î¯Î½Î¿Ï‚",
+            "slug": "i-i-i-i-i-isi-i-i-i-i-i-i-i-i-i-i-cy06l012"
+          },
+          "code": {
+            "id": "CY06L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L013",
+          "name": {
+            "local": "Î£Ï…ÎºÏŒÏ€ÎµÏ„Ï�Î±",
+            "en": "Î£Ï…ÎºÏŒÏ€ÎµÏ„Ï�Î±",
+            "slug": "i-i-i-i-i-i-i-i-i-cy06l013"
+          },
+          "code": {
+            "id": "CY06L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L014",
+          "name": {
+            "local": "Î–Ï‰Î¿Ï€Î·Î³Î®",
+            "en": "Î–Ï‰Î¿Ï€Î·Î³Î®",
+            "slug": "i-i-i-i-i-i-i-cy06l014"
+          },
+          "code": {
+            "id": "CY06L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L015",
+          "name": {
+            "local": "Î£Ï‰Ï„Î®Ï�Î±",
+            "en": "Î£Ï‰Ï„Î®Ï�Î±",
+            "slug": "i-i-i-i-i-i-cy06l015"
+          },
+          "code": {
+            "id": "CY06L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L016",
+          "name": {
+            "local": "Î Î±Ï�Î±Î¼Î¬Î»Î¹",
+            "en": "Î Î±Ï�Î±Î¼Î¬Î»Î¹",
+            "slug": "i-i-i-i-i-i-i-i-cy06l016"
+          },
+          "code": {
+            "id": "CY06L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L017",
+          "name": {
+            "local": "Î†Î»Î±ÏƒÏƒÎ±",
+            "en": "Î†Î»Î±ÏƒÏƒÎ±",
+            "slug": "i-i-i-i-i-i-cy06l017"
+          },
+          "code": {
+            "id": "CY06L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L018",
+          "name": {
+            "local": "Î†Î³Î¹Î¿Ï‚ Î‘Î¼Î²Ï�ÏŒÏƒÎ¹Î¿Ï‚",
+            "en": "Î†Î³Î¹Î¿Ï‚ Î‘Î¼Î²Ï�ÏŒÏƒÎ¹Î¿Ï‚",
+            "slug": "i-i-i-i-i-i-i-i-i-i-i-i-i-i-cy06l018"
+          },
+          "code": {
+            "id": "CY06L018",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L019",
+          "name": {
+            "local": "Î†Î³Î¹Î¿Ï‚ Î˜ÎµÏ�Î¬Ï€Ï‰Î½",
+            "en": "Î†Î³Î¹Î¿Ï‚ Î˜ÎµÏ�Î¬Ï€Ï‰Î½",
+            "slug": "i-i-i-i-i-i-i-i-i-i-i-i-cy06l019"
+          },
+          "code": {
+            "id": "CY06L019",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L020",
+          "name": {
+            "local": "Î”Ï‰Ï�Î¬",
+            "en": "Î”Ï‰Ï�Î¬",
+            "slug": "i-i-i-i-cy06l020"
+          },
+          "code": {
+            "id": "CY06L020",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L021",
+          "name": {
+            "local": "Î’Î¿Ï…Î½Î¯",
+            "en": "Î’Î¿Ï…Î½Î¯",
+            "slug": "i-i-i-i-i-cy06l021"
+          },
+          "code": {
+            "id": "CY06L021",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L022",
+          "name": {
+            "local": "ÎŒÎ¼Î¿Î´Î¿Ï‚",
+            "en": "ÎŒÎ¼Î¿Î´Î¿Ï‚",
+            "slug": "i-i-i-i-i-i-cy06l022"
+          },
+          "code": {
+            "id": "CY06L022",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L023",
+          "name": {
+            "local": "ÎšÏ…Ï€ÎµÏ�Î¿Ï�Î½Ï„Î±",
+            "en": "ÎšÏ…Ï€ÎµÏ�Î¿Ï�Î½Ï„Î±",
+            "slug": "isi-i-i-i-i-i-i-i-i-cy06l023"
+          },
+          "code": {
+            "id": "CY06L023",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L024",
+          "name": {
+            "local": "Mathikoloni",
+            "en": "Mathikoloni",
+            "slug": "mathikoloni-cy06l024"
+          },
+          "code": {
+            "id": "CY06L024",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L025",
+          "name": {
+            "local": "Pano Kividhes",
+            "en": "Pano Kividhes",
+            "slug": "pano-kividhes-cy06l025"
+          },
+          "code": {
+            "id": "CY06L025",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L026",
+          "name": {
+            "local": "Dhora",
+            "en": "Dhora",
+            "slug": "dhora-cy06l026"
+          },
+          "code": {
+            "id": "CY06L026",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L027",
+          "name": {
+            "local": "Kellaki",
+            "en": "Kellaki",
+            "slug": "kellaki-cy06l027"
+          },
+          "code": {
+            "id": "CY06L027",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L028",
+          "name": {
+            "local": "Monagroulli",
+            "en": "Monagroulli",
+            "slug": "monagroulli-cy06l028"
+          },
+          "code": {
+            "id": "CY06L028",
+            "iso": null
+          }
+        },
+        {
+          "id": "CY06L029",
+          "name": {
+            "local": "Ayios Tykhonas",
+            "en": "Ayios Tykhonas",
+            "slug": "ayios-tykhonas-cy06l029"
+          },
+          "code": {
+            "id": "CY06L029",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

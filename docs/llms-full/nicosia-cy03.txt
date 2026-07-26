@@ -1,0 +1,89 @@
+# Nicosia — Cyprus Administrative Divisions
+
+> 16 localitys
+> Code: CY03
+> Coordinates: 35.075, 33.11
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Localitys
+
+### Chakistra
+
+Code: CY03L016, Coordinates: 35.024, 32.724
+
+
+### Î Î±Ï‡Ï�Î±Î¼Î¼Î¿Ï‚
+
+Code: CY03L007, Coordinates: 35.171, 32.586
+
+
+### Î¤ÏƒÎ±ÎºÎ¯ÏƒÏ„Ï�Î±
+
+Code: CY03L006, Coordinates: 35.024, 32.724
+
+
+### Î£Ï€Î®Î»Î¹Î±
+
+Code: CY03L003, Coordinates: 34.967, 32.955
+
+
+### ÎœÎ±Ï�Î³Î¯
+
+Code: CY03L002, Coordinates: 35.024, 33.326
+
+
+### ÎšÎ¿Ï„ÏƒÎ¹Î¬Ï„Î·Ï‚
+
+Code: CY03L001, Coordinates: 35.011, 33.349
+
+
+### ÎšÎ±Î»Î¹Î¬Î½Î±
+
+Code: CY03L004, Coordinates: 35.012, 32.882
+
+
+### ÎŸÎ¯ÎºÎ¿Ï‚
+
+Code: CY03L005, Coordinates: 35.001, 32.833
+
+
+### Kochati
+
+Code: CY03L015, Coordinates: 35.013, 33.35
+
+
+### Lymbia
+
+Code: CY03L009, Coordinates: 35, 33.463
+
+
+### Pakhyammos
+
+Code: CY03L011, Coordinates: 35.168, 32.587
+
+
+### Pano Phlasou
+
+Code: CY03L013, Coordinates: 35.068, 32.889
+
+
+### Phterykoudhi
+
+Code: CY03L014, Coordinates: 34.946, 33.071
+
+
+### Polystipos
+
+Code: CY03L008, Coordinates: 34.942, 33.017
+
+
+### Sha
+
+Code: CY03L010, Coordinates: 34.938, 33.392
+
+
+### Yeri
+
+Code: CY03L012, Coordinates: 35.1, 33.417
+
+

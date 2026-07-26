@@ -1,0 +1,200 @@
+[
+  {
+    "id": "CY01",
+    "level": 1,
+    "level_name": {
+      "local": "Επαρχία",
+      "en": "District"
+    },
+    "name": {
+      "local": "Αμμόχωστος",
+      "en": "Famagusta",
+      "slug": "famagusta-cy01"
+    },
+    "code": {
+      "id": "CY01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.204",
+      "lon": "33.748"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cy/districts/famagusta-cy01/",
+      "api": "https://openadmindata.org/api/cy/"
+    }
+  },
+  {
+    "id": "CY02",
+    "level": 1,
+    "level_name": {
+      "local": "Επαρχία",
+      "en": "District"
+    },
+    "name": {
+      "local": "Κερύνεια",
+      "en": "Kyrenia",
+      "slug": "kyrenia-cy02"
+    },
+    "code": {
+      "id": "CY02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.303",
+      "lon": "33.206"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cy/districts/kyrenia-cy02/",
+      "api": "https://openadmindata.org/api/cy/"
+    }
+  },
+  {
+    "id": "CY03",
+    "level": 1,
+    "level_name": {
+      "local": "Επαρχία",
+      "en": "District"
+    },
+    "name": {
+      "local": "Λευκωσία",
+      "en": "Nicosia",
+      "slug": "nicosia-cy03"
+    },
+    "code": {
+      "id": "CY03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.075",
+      "lon": "33.11"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cy/districts/nicosia-cy03/",
+      "api": "https://openadmindata.org/api/cy/"
+    }
+  },
+  {
+    "id": "CY04",
+    "level": 1,
+    "level_name": {
+      "local": "Επαρχία",
+      "en": "District"
+    },
+    "name": {
+      "local": "Πάφος",
+      "en": "Paphos",
+      "slug": "paphos-cy04"
+    },
+    "code": {
+      "id": "CY04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.899",
+      "lon": "32.525"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cy/districts/paphos-cy04/",
+      "api": "https://openadmindata.org/api/cy/"
+    }
+  },
+  {
+    "id": "CY05",
+    "level": 1,
+    "level_name": {
+      "local": "Επαρχία",
+      "en": "District"
+    },
+    "name": {
+      "local": "Λάρνακα",
+      "en": "Larnaca",
+      "slug": "larnaca-cy05"
+    },
+    "code": {
+      "id": "CY05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.872",
+      "lon": "33.462"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cy/districts/larnaca-cy05/",
+      "api": "https://openadmindata.org/api/cy/"
+    }
+  },
+  {
+    "id": "CY06",
+    "level": 1,
+    "level_name": {
+      "local": "Επαρχία",
+      "en": "District"
+    },
+    "name": {
+      "local": "Λεμεσός",
+      "en": "Limassol",
+      "slug": "limassol-cy06"
+    },
+    "code": {
+      "id": "CY06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "locality": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.791",
+      "lon": "32.952"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cy/districts/limassol-cy06/",
+      "api": "https://openadmindata.org/api/cy/"
+    }
+  }
+]

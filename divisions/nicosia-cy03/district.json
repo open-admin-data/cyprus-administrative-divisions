@@ -1,0 +1,33 @@
+{
+  "id": "CY03",
+  "level": 1,
+  "level_name": {
+    "local": "Επαρχία",
+    "en": "District"
+  },
+  "name": {
+    "local": "Λευκωσία",
+    "en": "Nicosia",
+    "slug": "nicosia-cy03"
+  },
+  "code": {
+    "id": "CY03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.075",
+    "lon": "33.11"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cy/districts/nicosia-cy03/",
+    "api": "https://openadmindata.org/api/cy/"
+  }
+}

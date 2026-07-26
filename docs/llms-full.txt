@@ -1,0 +1,23 @@
+# Cyprus Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Per-District Data Files
+
+- [Famagusta](https://github.com/open-admin-data/cyprus-administrative-divisions/blob/main/docs/llms-full/famagusta-cy01.txt) — 3 localitys
+- [Kyrenia](https://github.com/open-admin-data/cyprus-administrative-divisions/blob/main/docs/llms-full/kyrenia-cy02.txt) — 1 localitys
+- [Nicosia](https://github.com/open-admin-data/cyprus-administrative-divisions/blob/main/docs/llms-full/nicosia-cy03.txt) — 16 localitys
+- [Paphos](https://github.com/open-admin-data/cyprus-administrative-divisions/blob/main/docs/llms-full/paphos-cy04.txt) — 13 localitys
+- [Larnaca](https://github.com/open-admin-data/cyprus-administrative-divisions/blob/main/docs/llms-full/larnaca-cy05.txt) — 5 localitys
+- [Limassol](https://github.com/open-admin-data/cyprus-administrative-divisions/blob/main/docs/llms-full/limassol-cy06.txt) — 29 localitys
+
+## Summary
+
+| District | Localitys | 
+|---|---|
+| Famagusta | 3 | 
+| Kyrenia | 1 | 
+| Nicosia | 16 | 
+| Paphos | 13 | 
+| Larnaca | 5 | 
+| Limassol | 29 | 

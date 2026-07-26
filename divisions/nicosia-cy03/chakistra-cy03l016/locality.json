@@ -1,0 +1,45 @@
+{
+  "id": "CY03L016",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Chakistra",
+    "en": "Chakistra",
+    "slug": "chakistra-cy03l016"
+  },
+  "code": {
+    "id": "CY03L016",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY03",
+    "level": 1,
+    "name": {
+      "local": "Λευκωσία",
+      "en": "Nicosia",
+      "slug": "nicosia-cy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.024",
+    "lon": "32.724"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CY03L011",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pakhyammos",
+    "en": "Pakhyammos",
+    "slug": "pakhyammos-cy03l011"
+  },
+  "code": {
+    "id": "CY03L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY03",
+    "level": 1,
+    "name": {
+      "local": "Λευκωσία",
+      "en": "Nicosia",
+      "slug": "nicosia-cy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.168",
+    "lon": "32.587"
+  },
+  "metadata": {},
+  "source": {}
+}

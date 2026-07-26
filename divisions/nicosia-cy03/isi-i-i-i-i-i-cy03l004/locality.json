@@ -1,0 +1,45 @@
+{
+  "id": "CY03L004",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "ÎšÎ±Î»Î¹Î¬Î½Î±",
+    "en": "ÎšÎ±Î»Î¹Î¬Î½Î±",
+    "slug": "isi-i-i-i-i-i-cy03l004"
+  },
+  "code": {
+    "id": "CY03L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY03",
+    "level": 1,
+    "name": {
+      "local": "Λευκωσία",
+      "en": "Nicosia",
+      "slug": "nicosia-cy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.012",
+    "lon": "32.882"
+  },
+  "metadata": {},
+  "source": {}
+}

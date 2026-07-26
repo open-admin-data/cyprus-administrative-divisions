@@ -1,0 +1,45 @@
+{
+  "id": "CY04L005",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Î£Î±Î»Î±Î¼Î¹Î¿Ï�",
+    "en": "Î£Î±Î»Î±Î¼Î¹Î¿Ï�",
+    "slug": "i-i-i-i-i-i-i-i-cy04l005"
+  },
+  "code": {
+    "id": "CY04L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY04",
+    "level": 1,
+    "name": {
+      "local": "Πάφος",
+      "en": "Paphos",
+      "slug": "paphos-cy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.841",
+    "lon": "32.69"
+  },
+  "metadata": {},
+  "source": {}
+}

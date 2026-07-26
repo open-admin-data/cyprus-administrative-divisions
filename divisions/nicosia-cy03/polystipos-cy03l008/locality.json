@@ -1,0 +1,45 @@
+{
+  "id": "CY03L008",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Polystipos",
+    "en": "Polystipos",
+    "slug": "polystipos-cy03l008"
+  },
+  "code": {
+    "id": "CY03L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY03",
+    "level": 1,
+    "name": {
+      "local": "Λευκωσία",
+      "en": "Nicosia",
+      "slug": "nicosia-cy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.942",
+    "lon": "33.017"
+  },
+  "metadata": {},
+  "source": {}
+}

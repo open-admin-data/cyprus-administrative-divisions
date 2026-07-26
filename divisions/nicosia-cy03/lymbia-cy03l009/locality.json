@@ -1,0 +1,45 @@
+{
+  "id": "CY03L009",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lymbia",
+    "en": "Lymbia",
+    "slug": "lymbia-cy03l009"
+  },
+  "code": {
+    "id": "CY03L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY03",
+    "level": 1,
+    "name": {
+      "local": "Λευκωσία",
+      "en": "Nicosia",
+      "slug": "nicosia-cy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35",
+    "lon": "33.463"
+  },
+  "metadata": {},
+  "source": {}
+}

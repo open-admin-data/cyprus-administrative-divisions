@@ -1,0 +1,14 @@
+# Kyrenia — Cyprus Administrative Divisions
+
+> 1 localitys
+> Code: CY02
+> Coordinates: 35.303, 33.206
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Localitys
+
+### Lapithos
+
+Code: CY02L001, Coordinates: 35.338, 33.179
+
+

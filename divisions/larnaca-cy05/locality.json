@@ -1,0 +1,227 @@
+[
+  {
+    "id": "CY05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Î‘Î²Î´ÎµÎ»Î»ÎµÏ�ÏŒ",
+      "en": "Î‘Î²Î´ÎµÎ»Î»ÎµÏ�ÏŒ",
+      "slug": "i-i-i-i-i-i-i-i-i-cy05l004"
+    },
+    "code": {
+      "id": "CY05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.01",
+      "lon": "33.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎœÎ±Ï�Î¯",
+      "en": "ÎœÎ±Ï�Î¯",
+      "slug": "i-i-i-i-cy05l001"
+    },
+    "code": {
+      "id": "CY05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.741",
+      "lon": "33.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎœÎµÎ½ÎµÎ¿Ï�",
+      "en": "ÎœÎµÎ½ÎµÎ¿Ï�",
+      "slug": "i-i-i-i-i-i-cy05l005"
+    },
+    "code": {
+      "id": "CY05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.857",
+      "lon": "33.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎšÎ±Î»Î±Î²Î±ÏƒÏŒÏ‚",
+      "en": "ÎšÎ±Î»Î±Î²Î±ÏƒÏŒÏ‚",
+      "slug": "isi-i-i-i-i-i-i-i-cy05l002"
+    },
+    "code": {
+      "id": "CY05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.772",
+      "lon": "33.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CY05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Κοινότητα",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "ÎŸÎ´Î¿Ï�",
+      "en": "ÎŸÎ´Î¿Ï�",
+      "slug": "iyi-i-i-cy05l003"
+    },
+    "code": {
+      "id": "CY05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "CY05",
+      "level": 1,
+      "name": {
+        "local": "Λάρνακα",
+        "en": "Larnaca",
+        "slug": "larnaca-cy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CY05",
+        "level": 1,
+        "name": {
+          "local": "Λάρνακα",
+          "en": "Larnaca",
+          "slug": "larnaca-cy05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.886",
+      "lon": "33.151"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

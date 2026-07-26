@@ -1,0 +1,62 @@
+# Cyprus Administrative Divisions
+
+> Open dataset of Cyprus's administrative hierarchy:
+> 6 districts, 67 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total districts: 6
+- Total localitys: 67
+- Coordinates: included (all levels)
+- Last updated: 2026-07-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/data/all-district.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/data/schema.json)
+
+## Browse by District
+
+- [Famagusta](https://github.com/open-admin-data/cyprus-administrative-divisions/tree/main/divisions/famagusta-cy01/) — 3 localitys
+- [Kyrenia](https://github.com/open-admin-data/cyprus-administrative-divisions/tree/main/divisions/kyrenia-cy02/) — 1 localitys
+- [Nicosia](https://github.com/open-admin-data/cyprus-administrative-divisions/tree/main/divisions/nicosia-cy03/) — 16 localitys
+- [Paphos](https://github.com/open-admin-data/cyprus-administrative-divisions/tree/main/divisions/paphos-cy04/) — 13 localitys
+- [Larnaca](https://github.com/open-admin-data/cyprus-administrative-divisions/tree/main/divisions/larnaca-cy05/) — 5 localitys
+- [Limassol](https://github.com/open-admin-data/cyprus-administrative-divisions/tree/main/divisions/limassol-cy06/) — 29 localitys
+
+## Per-District Full Data
+
+- [Famagusta](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/docs/llms-full/famagusta-cy01.txt)
+- [Kyrenia](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/docs/llms-full/kyrenia-cy02.txt)
+- [Nicosia](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/docs/llms-full/nicosia-cy03.txt)
+- [Paphos](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/docs/llms-full/paphos-cy04.txt)
+- [Larnaca](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/docs/llms-full/larnaca-cy05.txt)
+- [Limassol](https://raw.githubusercontent.com/open-admin-data/cyprus-administrative-divisions/main/docs/llms-full/limassol-cy06.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (district), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Cyprus Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/cyprus-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

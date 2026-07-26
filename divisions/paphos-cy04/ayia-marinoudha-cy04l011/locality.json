@@ -1,0 +1,45 @@
+{
+  "id": "CY04L011",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ayia Marinoudha",
+    "en": "Ayia Marinoudha",
+    "slug": "ayia-marinoudha-cy04l011"
+  },
+  "code": {
+    "id": "CY04L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY04",
+    "level": 1,
+    "name": {
+      "local": "Πάφος",
+      "en": "Paphos",
+      "slug": "paphos-cy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.763",
+    "lon": "32.475"
+  },
+  "metadata": {},
+  "source": {}
+}

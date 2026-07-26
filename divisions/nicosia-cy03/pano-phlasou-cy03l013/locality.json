@@ -1,0 +1,45 @@
+{
+  "id": "CY03L013",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Pano Phlasou",
+    "en": "Pano Phlasou",
+    "slug": "pano-phlasou-cy03l013"
+  },
+  "code": {
+    "id": "CY03L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY03",
+    "level": 1,
+    "name": {
+      "local": "Λευκωσία",
+      "en": "Nicosia",
+      "slug": "nicosia-cy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY03",
+      "level": 1,
+      "name": {
+        "local": "Λευκωσία",
+        "en": "Nicosia",
+        "slug": "nicosia-cy03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.068",
+    "lon": "32.889"
+  },
+  "metadata": {},
+  "source": {}
+}

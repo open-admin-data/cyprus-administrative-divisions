@@ -1,0 +1,33 @@
+{
+  "id": "CY05",
+  "level": 1,
+  "level_name": {
+    "local": "Επαρχία",
+    "en": "District"
+  },
+  "name": {
+    "local": "Λάρνακα",
+    "en": "Larnaca",
+    "slug": "larnaca-cy05"
+  },
+  "code": {
+    "id": "CY05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.872",
+    "lon": "33.462"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cy/districts/larnaca-cy05/",
+    "api": "https://openadmindata.org/api/cy/"
+  }
+}

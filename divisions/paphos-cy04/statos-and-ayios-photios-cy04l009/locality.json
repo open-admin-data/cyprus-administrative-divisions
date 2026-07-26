@@ -1,0 +1,45 @@
+{
+  "id": "CY04L009",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Statos and Ayios Photios",
+    "en": "Statos and Ayios Photios",
+    "slug": "statos-and-ayios-photios-cy04l009"
+  },
+  "code": {
+    "id": "CY04L009",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY04",
+    "level": 1,
+    "name": {
+      "local": "Πάφος",
+      "en": "Paphos",
+      "slug": "paphos-cy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY04",
+      "level": 1,
+      "name": {
+        "local": "Πάφος",
+        "en": "Paphos",
+        "slug": "paphos-cy04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.883",
+    "lon": "32.625"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "CY06L006",
+  "level": 2,
+  "level_name": {
+    "local": "Κοινότητα",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Î¦Î¿Î¹Î½Î¹ÎºÎ¬Ï�Î¹Î±",
+    "en": "Î¦Î¿Î¹Î½Î¹ÎºÎ¬Ï�Î¹Î±",
+    "slug": "i-i-i-i-i-i-i-i-i-i-cy06l006"
+  },
+  "code": {
+    "id": "CY06L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "CY06",
+    "level": 1,
+    "name": {
+      "local": "Λεμεσός",
+      "en": "Limassol",
+      "slug": "limassol-cy06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CY06",
+      "level": 1,
+      "name": {
+        "local": "Λεμεσός",
+        "en": "Limassol",
+        "slug": "limassol-cy06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.753",
+    "lon": "33.098"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "CY01",
+  "level": 1,
+  "level_name": {
+    "local": "Επαρχία",
+    "en": "District"
+  },
+  "name": {
+    "local": "Αμμόχωστος",
+    "en": "Famagusta",
+    "slug": "famagusta-cy01"
+  },
+  "code": {
+    "id": "CY01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.204",
+    "lon": "33.748"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cy/districts/famagusta-cy01/",
+    "api": "https://openadmindata.org/api/cy/"
+  }
+}
