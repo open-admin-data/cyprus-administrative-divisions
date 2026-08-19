@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-07-26 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/cy](https://openadmindata.org/cy/) |
 | API | [openadmindata.org/api/cy](https://openadmindata.org/api/cy/) |
+| National Anthem | [🎵 Listen & Download Cyprus National Anthem MP3](https://onlygames.me/national-anthems/cy/) |
 
 ## Browse by District
 

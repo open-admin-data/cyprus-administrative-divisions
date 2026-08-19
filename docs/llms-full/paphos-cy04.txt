@@ -3,7 +3,7 @@
 > 13 localitys
 > Code: CY04
 > Coordinates: 34.899, 32.525
-> Last updated: 2026-07-26. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Localitys
 
